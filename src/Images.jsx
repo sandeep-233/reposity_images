@@ -20,23 +20,23 @@ import img13 from './assets/space_img_4.png'
 export const Images = () => {
   return (
     <div className='flex flex-wrap gap-3'>
-        <img src={img1} alt=""  className='w-[1080px] h-[1080px]'/>
-        <img src={img2} alt=""  className='w-[1080px] h-[1080px]'/>
-        <img src={img3} alt="" className='w-[1080px] h-[1080px]' />
-        <img src={img4} alt="" className='w-[1080px] h-[1080px]' />
+        <img src={img1} alt=""  className='w-[180px] h-[180px]'/>
+        <img src={img2} alt=""  className='w-[180px] h-[180px]'/>
+        <img src={img3} alt="" className='w-[180px] h-[180px]' />
+        <img src={img4} alt="" className='w-[180px] h-[180px]' />
 
-        <img src={img5} alt="" className='w-[1080px] h-[1080px]' />
+        <img src={img5} alt="" className='w-[180px] h-[180px]' />
 
-        <img src={img6} alt="" className='w-[1080px] h-[1080px]' />
-        <img src={img7} alt="" className='w-[1080px] h-[1080px]' />
+        <img src={img6} alt="" className='w-[180px] h-[180px]' />
+        <img src={img7} alt="" className='w-[180px] h-[180px]' />
 
-        <img src={img8} alt="" className='w-[1080px] h-[1080px]' />
-        <img src={img9} alt="" className='w-[1080px] h-[1080px]' />
+        <img src={img8} alt="" className='w-[180px] h-[180px]' />
+        <img src={img9} alt="" className='w-[180px] h-[180px]' />
 
-        <img src={img10} alt="" className='w-[1080px] h-[1080px]' />
-        <img src={img11} alt="" className='w-[1080px] h-[1080px]' />
-        <img src={img12} alt="" className='w-[1080px] h-[1080px]' />
-        <img src={img13} alt="" className='w-[1080px] h-[1080px]' />
+        <img src={img10} alt="" className='w-[180px] h-[180px]' />
+        <img src={img11} alt="" className='w-[180px] h-[180px]' />
+        <img src={img12} alt="" className='w-[180px] h-[180px]' />
+        <img src={img13} alt="" className='w-[180px] h-[180px]' />
 
     </div>
   )
